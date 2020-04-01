@@ -1,0 +1,4 @@
+global-turbo2-1.opera-mini.net
+global-turbo2.opera-mini.net
+mini5-1.opera-mini.net
+mini5.opera-mini.net
