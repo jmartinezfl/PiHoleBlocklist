@@ -32,3 +32,4 @@
 0.0.0.0 lgappstv.com
 0.0.0.0 lgtvonline.lge.com
 0.0.0.0 snu.lge.com
+0.0.0.0 su.lge.com
