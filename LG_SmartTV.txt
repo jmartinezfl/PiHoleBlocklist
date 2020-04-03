@@ -1,35 +1,35 @@
-0.0.0.0 us.rdx2.lgtvsdp.com
-0.0.0.0 us.info.lgsmartad.com
-0.0.0.0 us.ibs.lgappstv.com
-0.0.0.0 us.lgtvsdp.com
-0.0.0.0 es.rdx2.lgtvsdp.com
-0.0.0.0 es.info.lgsmartad.com
-0.0.0.0 es.ibs.lgappstv.com
-0.0.0.0 es.lgtvsdp.com
-0.0.0.0 ad.lgappstv.com
-0.0.0.0 smartshare.lgtvsdp.com
-0.0.0.0 ibis.lgappstv.com
+us.rdx2.lgtvsdp.com
+us.info.lgsmartad.com
+us.ibs.lgappstv.com
+us.lgtvsdp.com
+es.rdx2.lgtvsdp.com
+es.info.lgsmartad.com
+es.ibs.lgappstv.com
+es.lgtvsdp.com
+ad.lgappstv.com
+smartshare.lgtvsdp.com
+ibis.lgappstv.com
 
 # added after fork
 # from https://www.reddit.com/r/pihole/comments/6qmpv6/blacklists_for_lg_webos_tvs/ and others
-0.0.0.0 us.ad.lgsmartad.com
-0.0.0.0 es.ad.lgsmartad.com
-0.0.0.0 lgad.cjpowercast.com.edgesuite.net
-# 0.0.0.0 ngfts.lge.com # blocks thumbnails from loading in the LG Content Store
-# 0.0.0.0 aic-ngfts.lge.com
-0.0.0.0 yumenetworks.com
-0.0.0.0 smartclip.net
-0.0.0.0 smartclip.com
+us.ad.lgsmartad.com
+es.ad.lgsmartad.com
+lgad.cjpowercast.com.edgesuite.net
+# ngfts.lge.com # blocks thumbnails from loading in the LG Content Store
+# aic-ngfts.lge.com
+yumenetworks.com
+smartclip.net
+smartclip.com
 
 # non us
-0.0.0.0 rdx2.lgtvsdp.com
-0.0.0.0 info.lgsmartad.com
-0.0.0.0 ibs.lgappstv.com
-0.0.0.0 lgtvsdp.com
-0.0.0.0 es.lgtvsdp.com
-0.0.0.0 lgappstv.com
-0.0.0.0 smartshare.lgtvsdp.com
-0.0.0.0 lgappstv.com
-0.0.0.0 lgtvonline.lge.com
-0.0.0.0 snu.lge.com
-0.0.0.0 su.lge.com
+rdx2.lgtvsdp.com
+info.lgsmartad.com
+ibs.lgappstv.com
+lgtvsdp.com
+es.lgtvsdp.com
+lgappstv.com
+smartshare.lgtvsdp.com
+lgappstv.com
+lgtvonline.lge.com
+snu.lge.com
+su.lge.com
