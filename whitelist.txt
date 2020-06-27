@@ -4,3 +4,4 @@ global-turbo2-1.opera-mini.net
 global-turbo2.opera-mini.net
 external-mad1-1.xx.fbcdn.net
 s.youtube.com
+slscr.update.microsoft.com
